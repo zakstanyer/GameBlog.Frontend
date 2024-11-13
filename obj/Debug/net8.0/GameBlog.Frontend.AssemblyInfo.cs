@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameBlog.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a0f8c56830a26f8cc13b962a8c4e641e476c7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58035550b0a72ee4d788a95f7c07fe2d8353fc54")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameBlog.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameBlog.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
