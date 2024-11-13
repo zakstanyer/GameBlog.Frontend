@@ -1,8 +1,33 @@
-using System;
-
-namespace GameBlog.Frontend.wwwroot;
+@page "/"
+@inject IConfiguration Config
 <base href="https://zakstanyer.github.io/GameBlog.Frontend/" />
-public class index.html
-{
+
+ <!--shows a loading indicator when the page is loading-->
+@attribute [StreamRendering]
+
+<PageTitle>Game Catalog</PageTitle>
+
+<div class = "mt-2">
+    <a class = "btn btn-primary" role = "button" href ="/editgame">New Game</a>
+
+</div>
+ <!--shows a loading indicator when the page is loading
+ <p class = h4">
+    Default Connection String: @defaultConnection
+</p>*/
+ -->
+
+@code
+{  
+    private string defaultConnection = "";
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        defaultConnection = Config.GetConnectionString("Default") ?? "unknown";
+    }
+
+    private static string GameUrl(int id) => $"/editgame/{id}";
 
 }
+
