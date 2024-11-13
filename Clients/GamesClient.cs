@@ -4,6 +4,7 @@ namespace GameBlog.Frontend.Clients;
 
 public class GamesClient(HttpClient httpClient)
 {
+    
     public async Task<GameSummary[]> GetGamesAsync()
         => await httpClient.GetFromJsonAsync<GameSummary[]>("games") ?? [];
 

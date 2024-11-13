@@ -26,3 +26,4 @@ C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\obj\Debug\net8.0\refi
 C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\obj\Debug\net8.0\GameBlog.Frontend.pdb
 C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\obj\Debug\net8.0\GameBlog.Frontend.genruntimeconfig.cache
 C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\obj\Debug\net8.0\ref\GameBlog.Frontend.dll
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\obj\Debug\net8.0\GameBlog.Frontend.sourcelink.json
