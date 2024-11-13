@@ -1,0 +1,7 @@
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\GameBlog.Frontend.exe
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\appsettings.json
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\GameBlog.Frontend.dll
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\GameBlog.Frontend.deps.json
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\GameBlog.Frontend.runtimeconfig.json
+C:\Users\zakst\ASP.Net Projects\GameBlog\GameBlog.Frontend\bin\Release\net8.0\publish\GameBlog.Frontend.pdb
