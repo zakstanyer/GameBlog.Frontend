@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css",
+      "Id": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\GameBlog.Frontend.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\wwwroot\\app.css",
+      "Id": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameBlog.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
