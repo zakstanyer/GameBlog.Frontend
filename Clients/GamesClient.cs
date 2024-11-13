@@ -1,4 +1,4 @@
-﻿using GameBlog.Frontend.Models;
+﻿/*using GameBlog.Frontend.Models;
 
 namespace GameBlog.Frontend.Clients;
 
@@ -20,4 +20,4 @@ public class GamesClient(HttpClient httpClient)
 
     public async Task DeleteGameAsync(int id)
         => await httpClient.DeleteAsync($"games/{id}");
-}
+}*/

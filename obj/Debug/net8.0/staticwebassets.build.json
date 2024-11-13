@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O8MlfdMCVLfCJHiFsgtI68W8As+Wy3v0SqZKfCxdx4Y=",
+  "Hash": "CwOr4Th21WDQAhJLBxKM2UfJWJcQs2nr1uTk5C5Khj4=",
   "Source": "GameBlog.Frontend",
   "BasePath": "_content/GameBlog.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameBlog.Frontend\\wwwroot",
       "Source": "GameBlog.Frontend",
-      "ContentRoot": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\wwwroot\\",
       "BasePath": "_content/GameBlog.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameBlog.Frontend.styles.css",
+      "Identity": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameBlog.Frontend.styles.css",
       "SourceId": "GameBlog.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameBlog.Frontend",
       "RelativePath": "GameBlog.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameBlog.Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameBlog.Frontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css",
       "SourceId": "GameBlog.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameBlog.Frontend",
       "RelativePath": "GameBlog.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\wwwroot\\app.css",
       "SourceId": "GameBlog.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zakst\\GameBlog\\gameblog.frontend\\wwwroot\\",
       "BasePath": "_content/GameBlog.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",
